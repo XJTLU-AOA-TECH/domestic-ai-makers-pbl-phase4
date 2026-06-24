@@ -58,11 +58,15 @@ Examples are written for ESP32-S3 / Arduino-style boards. For Bluetooth and Wi-F
 ## Course connection
 
 Phase 3 focuses on environmental perception and Edge AI. Phase 4 continues into advanced AI and multi-sensor development: interfaces, wireless control, motors, servos, and intelligent car behavior.
+
+## Reference / 自学平台
+
+- [FunKit 自学平台](https://funkit.eetree.cn/)
 ---
 
 ## 中文说明
 
-这是智能硬件 Phase 4 的五天课程资料，主题是 **触觉反馈集成，触觉交互现实**，已结合 `西浦课程安排0513V2.docx` 的模块四进行调整。课程重点是把屏幕、触摸、灯光、蜂鸣器、震动、电机、舵机和小车运动整合起来，让数字指令变成可触摸、可感知、可执行的真实交互。
+这是智能硬件 Phase 4 的五天课程资料，主题是 **触觉反馈集成，触觉交互现实**。课程重点是把屏幕、触摸、灯光、蜂鸣器、震动、电机、舵机和小车运动整合起来，让数字指令变成可触摸、可感知、可执行的真实交互。
 
 课程内容包括屏幕布局与触摸菜单、蓝牙/Wi-Fi 通信控制、电机与舵机、小车远程控制、AI 智能寻路。
 
